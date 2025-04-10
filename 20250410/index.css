@@ -1,0 +1,19 @@
+* {
+    color:blue;
+}
+
+h1{
+    color: red;
+}
+
+div h1{
+    color: green;
+}
+
+div p{
+    background-color: pink;
+}
+
+div > p{
+    background-color: aqua;
+}
